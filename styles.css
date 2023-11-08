@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+body{
+    background-color: #f8f8f8;
+    
+}
+.book-library{
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    
+}
+.title{
+	margin-left:50px
+}
+.book img{
+    
+    margin-left:20px;
+}
+.book h3{
+	margin:0px;
+}
+.book p{
+    color: #777777;
+	margin: 0px;
+
+}
+.book button{
+    background-color: #2ecc71;
+    color: white;
+    width: 40vw;
+}
