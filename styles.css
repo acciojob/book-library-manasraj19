@@ -10,10 +10,10 @@ body{
     
 }
 .title{
-	margin-left:50px
+	margin-left:25px;
 }
 .book img{
-    
+    color:rgb(46, 204, 113);
     margin-left:20px;
 }
 .book h3{
